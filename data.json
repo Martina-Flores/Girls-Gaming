@@ -8,7 +8,7 @@
 		"gender": ["MOBA", "Rol de acción"]
 
 	},
- 
+
 	{
 		"title": "Call of Duty Warzone 2.0",
 		"company": "Activision",
@@ -19,41 +19,41 @@
 		"gender": ["Battle Royal", "Shotter en primera persona"]
 
 	},
- 
- {
-     "title": "Valorant",
+
+	{
+		"title": "Valorant",
 		"company": "Riot Games",
 		"cover": "https://img.redbull.com/images/c_fill,w_1200,h_600,g_auto,f_auto,q_auto/redbullcom/2021/2/23/lw2mnvl4myz7br8okktn/valorant",
 		"tags": ["Chat de voz", "Censura palabras ofensivas", "Chat"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC"],
 		"gender": ["Shotter en primera persona"]
-     
- },
- 
- {
-     "title": "Counter-Strike Global Offensive",
+
+	},
+
+	{
+		"title": "Counter-Strike Global Offensive",
 		"company": "Valve Corportion",
 		"cover": "https://cdn.akamai.steamstatic.com/steam/apps/730/capsule_616x353.jpg?t=1683566799",
 		"tags": ["Chat de voz", "Gente muy violenta"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
 		"gender": ["Battle Royal", "Shotter en primera persona"]
-     
- },
- 
- {
-     "title": "Rocket League",
+
+	},
+
+	{
+		"title": "Rocket League",
 		"company": "Activision",
 		"cover": "https://static.13.cl/7/sites/default/files/images/ocupload/rocket-league.jpeg",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
 		"gender": ["Battle Royal", "Shotter en primera persona"]
-     
- },
- 
- {
+
+	},
+
+	{
 		"title": "Fornite",
 		"company": "Activision",
 		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
@@ -63,8 +63,8 @@
 		"gender": ["Battle Royal", "Shotter en primera persona"]
 
 	},
- 
- {
+
+	{
 		"title": "Genshin Impact",
 		"company": "Activision",
 		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
@@ -74,8 +74,8 @@
 		"gender": ["Battle Royal", "Shotter en primera persona"]
 
 	},
- 
- {
+
+	{
 		"title": "Hearthstone",
 		"company": "Activision",
 		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
@@ -85,8 +85,8 @@
 		"gender": ["Battle Royal", "Shotter en primera persona"]
 
 	},
- 
- {
+
+	{
 		"title": "Destiny 2",
 		"company": "Activision",
 		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
@@ -96,8 +96,8 @@
 		"gender": ["Battle Royal", "Shotter en primera persona"]
 
 	},
- 
- {
+
+	{
 		"title": "Grand Theft Auto V",
 		"company": "Activision",
 		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
@@ -107,8 +107,8 @@
 		"gender": ["Battle Royal", "Shotter en primera persona"]
 
 	},
- 
- {
+
+	{
 		"title": "Rust",
 		"company": "Activision",
 		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
@@ -118,8 +118,8 @@
 		"gender": ["Battle Royal", "Shotter en primera persona"]
 
 	},
- 
- {
+
+	{
 		"title": "FIFA 23",
 		"company": "Activision",
 		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
@@ -129,8 +129,8 @@
 		"gender": ["Battle Royal", "Shotter en primera persona"]
 
 	},
- 
- {
+
+	{
 		"title": "Apex Legends",
 		"company": "Activision",
 		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
@@ -140,8 +140,8 @@
 		"gender": ["Battle Royal", "Shotter en primera persona"]
 
 	},
- 
- {
+
+	{
 		"title": "Dead by Daylight",
 		"company": "Activision",
 		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
@@ -151,8 +151,8 @@
 		"gender": ["Battle Royal", "Shotter en primera persona"]
 
 	},
- 
- {
+
+	{
 		"title": "Overwatch",
 		"company": "Activision",
 		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
@@ -162,8 +162,8 @@
 		"gender": ["Battle Royal", "Shotter en primera persona"]
 
 	},
- 
- {
+
+	{
 		"title": "Rainbow Six Siege",
 		"company": "Activision",
 		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
@@ -173,8 +173,8 @@
 		"gender": ["Battle Royal", "Shotter en primera persona"]
 
 	},
- 
- {
+
+	{
 		"title": "Minecraft",
 		"company": "Activision",
 		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
@@ -184,8 +184,8 @@
 		"gender": ["Battle Royal", "Shotter en primera persona"]
 
 	},
- 
- {
+
+	{
 		"title": "Fall Guys",
 		"company": "Activision",
 		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
@@ -195,8 +195,8 @@
 		"gender": ["Battle Royal", "Shotter en primera persona"]
 
 	},
- 
- {
+
+	{
 		"title": "Stardew Valley",
 		"company": "Activision",
 		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
@@ -206,8 +206,8 @@
 		"gender": ["Battle Royal", "Shotter en primera persona"]
 
 	},
- 
- {
+
+	{
 		"title": "Gang Beasts",
 		"company": "Activision",
 		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
@@ -217,8 +217,8 @@
 		"gender": ["Battle Royal", "Shotter en primera persona"]
 
 	},
- 
- {
+
+	{
 		"title": "Battlefield V",
 		"company": "Activision",
 		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
@@ -228,8 +228,8 @@
 		"gender": ["Battle Royal", "Shotter en primera persona"]
 
 	},
- 
- {
+
+	{
 		"title": "Dota 2",
 		"company": "Activision",
 		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
@@ -239,8 +239,8 @@
 		"gender": ["Battle Royal", "Shotter en primera persona"]
 
 	},
- 
- {
+
+	{
 		"title": "Final Fantasy XIV: A realm reborn",
 		"company": "Activision",
 		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
@@ -250,8 +250,8 @@
 		"gender": ["Battle Royal", "Shotter en primera persona"]
 
 	},
- 
- {
+
+	{
 		"title": "World of Warcraft",
 		"company": "Activision",
 		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
@@ -261,8 +261,8 @@
 		"gender": ["Battle Royal", "Shotter en primera persona"]
 
 	},
- 
- {
+
+	{
 		"title": "Team Fortress 2",
 		"company": "Activision",
 		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
@@ -272,8 +272,8 @@
 		"gender": ["Battle Royal", "Shotter en primera persona"]
 
 	},
- 
- {
+
+	{
 		"title": "Call of Duty: Black Ops III",
 		"company": "Activision",
 		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
@@ -283,8 +283,8 @@
 		"gender": ["Battle Royal", "Shotter en primera persona"]
 
 	},
- 
- {
+
+	{
 		"title": "Red Dead Redemption 2",
 		"company": "Activision",
 		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
@@ -294,8 +294,8 @@
 		"gender": ["Battle Royal", "Shotter en primera persona"]
 
 	},
- 
- {
+
+	{
 		"title": "Summoner´s War: Chronicles",
 		"company": "Activision",
 		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
@@ -305,8 +305,8 @@
 		"gender": ["Battle Royal", "Shotter en primera persona"]
 
 	},
- 
- {
+
+	{
 		"title": "Street Fighter 6",
 		"company": "Activision",
 		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
@@ -316,8 +316,8 @@
 		"gender": ["Battle Royal", "Shotter en primera persona"]
 
 	},
- 
- {
+
+	{
 		"title": "The Elder Scrolls Online",
 		"company": "Activision",
 		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
@@ -326,5 +326,5 @@
 		"platform": ["PC", "PS4", "PS5"],
 		"gender": ["Battle Royal", "Shotter en primera persona"]
 
-	},
+	}
 ]
