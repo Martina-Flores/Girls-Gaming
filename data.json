@@ -2,21 +2,23 @@
 		"title": "League of Legends",
 		"company": "Riot Games",
 		"cover": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/LOL_2560x1440-98749e0d718e82d27a084941939bc9d3",
-		"tags": ["Chat", "Juego medianamente violento", "acoso"],
-		"description": "Es un videojuego multijugador de arena de batalla en línea.",
+		"tags": ["Agrupación de equipos", "Chat de texto", "Mutear el chat", "Censura insultos", "Sistema de reporte", "Sexualización de personajes femeninos", "Multijugador competitivo", "Comunidad tóxica", "Sexismo", "Público mayormente masculino"],
+		"description": "League of Legends es un juego de estrategia por equipos en el que dos equipos conformados por cinco poderosos campeones se enfrentan para destruir la base del otro. Elige de entre más de 140 campeones para realizar jugadas épicas, asegurar asesinatos y destruir torretas mientras avanzas hacia la victoria.",
 		"platform": ["PC"],
-		"gender": ["MOBA", "Rol de acción"]
+		"gender": ["MOBA", "Rol de acción"],
+		"Release date": "27 de Octubre de 2009"
 
 	},
 
 	{
-		"title": "Call of Duty Warzone 2.0",
+		"title": "Call of Duty: Modern Warfare II",
 		"company": "Activision",
-		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
-		"tags": ["Chat de voz", "no hay censura"],
-		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
-		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["Battle Royal", "Shotter en primera persona"]
+		"cover": "https://image.api.playstation.com/vulcan/ap/rnd/202205/2800/iQGgKYUg9YwjPVNM0kE8jeRN.jpg",
+		"tags": ["Agrupación de equipos", "Chat de voz", "Chat de texto", "Mutear el chat", "Sistema de reporte", "Multijugador competitivo", "Sexismo", "Comunidad tóxica", "Público mayormente masculino"],
+		"description": "En Call of Duty®: Modern Warfare® II, los jugadores se verán inmersos en un conflicto a escala global sin precedentes que incluye el regreso de Operadores icónicos de la fuerza operativa 141",
+		"platform": ["PC", "PS4", "PS5", "Xbox One"],
+		"gender": ["Shooter en primera persona", "Battleroyale", "Acción"],
+		"Release date": "28 de Octubre de 2022"
 
 	},
 
@@ -24,32 +26,35 @@
 		"title": "Valorant",
 		"company": "Riot Games",
 		"cover": "https://img.redbull.com/images/c_fill,w_1200,h_600,g_auto,f_auto,q_auto/redbullcom/2021/2/23/lw2mnvl4myz7br8okktn/valorant",
-		"tags": ["Chat de voz", "Censura palabras ofensivas", "Chat"],
-		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
+		"tags": ["Agrupación de equipos", "Chat de voz", "Chat de texto", "Mutear el chat", "Censura insultos", "Sistema de reporte", "Multijugador competitivo", "Sexismo", "Acoso", "Comunidad tóxica"],
+		"description": "VALORANT es un juego de disparos táctico 5v5 con personajes y ambientado en un escenario global. Piensa más rápido, juega mejor y eclipsa a tus enemigos con habilidades tácticas, precisión de armas y juego en equipo adaptable.",
 		"platform": ["PC"],
-		"gender": ["Shotter en primera persona"]
+		"gender": ["Shooter en primera persona", "Estrategia"],
+		"Release date": "02 de Junio de 2020"
 
 	},
 
 	{
 		"title": "Counter-Strike Global Offensive",
-		"company": "Valve Corportion",
+		"company": "Valve Corporation",
 		"cover": "https://cdn.akamai.steamstatic.com/steam/apps/730/capsule_616x353.jpg?t=1683566799",
-		"tags": ["Chat de voz", "Gente muy violenta"],
-		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
-		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["Battle Royal", "Shotter en primera persona"]
+		"tags": ["Agrupación de equipos", "Chat de voz", "Chat de texto", "Mutear el chat", "Sistema de reporte", "Multijugador competitivo", "Sexismo", "Comunidad tóxica", "Público mayormente masculino"],
+		"description": "Counter-Strike: Global Ofensive (CS:GO) amplía el juego de disparos en primera persona por equipos del que fue pionero cuando salió en 1999. Dos equipos compiten en múltiples rondas con un modo de juego enfocado en objetivos con la misión de ganar suficientes rondas para llevarse la victoria.",
+		"platform": ["PC", "Xbox 360", "Xbox One", "PS3"],
+		"gender": ["Shooter en primera persona"],
+		"Release date": "21 de Agosto de 2012"
 
 	},
 
 	{
 		"title": "Rocket League",
-		"company": "Activision",
+		"company": "Psyonix",
 		"cover": "https://static.13.cl/7/sites/default/files/images/ocupload/rocket-league.jpeg",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["Battle Royal", "Shotter en primera persona"]
+		"gender": ["MOBA", "Rol de acción"],
+		"Release date": "21 de Agosto de 2012"
 
 	},
 
@@ -60,7 +65,8 @@
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["Battle Royal", "Shotter en primera persona"]
+		"gender": ["MOBA", "Rol de acción"],
+		"Release date": "21 de Agosto de 2012"
 
 	},
 
@@ -71,7 +77,8 @@
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["Battle Royal", "Shotter en primera persona"]
+		"gender": ["MOBA", "Rol de acción"],
+		"Release date": "21 de Agosto de 2012"
 
 	},
 
@@ -82,7 +89,8 @@
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["Battle Royal", "Shotter en primera persona"]
+		"gender": ["MOBA", "Rol de acción"],
+		"Release date": "21 de Agosto de 2012"
 
 	},
 
@@ -93,7 +101,8 @@
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["Battle Royal", "Shotter en primera persona"]
+		"gender": ["MOBA", "Rol de acción"],
+		"Release date": "21 de Agosto de 2012"
 
 	},
 
@@ -104,7 +113,8 @@
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["Battle Royal", "Shotter en primera persona"]
+		"gender": ["MOBA", "Rol de acción"],
+		"Release date": "21 de Agosto de 2012"
 
 	},
 
@@ -115,7 +125,8 @@
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["Battle Royal", "Shotter en primera persona"]
+		"gender": ["MOBA", "Rol de acción"],
+		"Release date": "21 de Agosto de 2012"
 
 	},
 
@@ -126,7 +137,8 @@
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["Battle Royal", "Shotter en primera persona"]
+		"gender": ["MOBA", "Rol de acción"],
+		"Release date": "21 de Agosto de 2012"
 
 	},
 
@@ -137,7 +149,8 @@
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["Battle Royal", "Shotter en primera persona"]
+		"gender": ["MOBA", "Rol de acción"],
+		"Release date": "21 de Agosto de 2012"
 
 	},
 
@@ -148,7 +161,8 @@
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["Battle Royal", "Shotter en primera persona"]
+		"gender": ["MOBA", "Rol de acción"],
+		"Release date": "21 de Agosto de 2012"
 
 	},
 
@@ -159,7 +173,8 @@
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["Battle Royal", "Shotter en primera persona"]
+		"gender": ["MOBA", "Rol de acción"],
+		"Release date": "21 de Agosto de 2012"
 
 	},
 
@@ -170,7 +185,8 @@
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["Battle Royal", "Shotter en primera persona"]
+		"gender": ["MOBA", "Rol de acción"],
+		"Release date": "21 de Agosto de 2012"
 
 	},
 
@@ -181,7 +197,8 @@
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["Battle Royal", "Shotter en primera persona"]
+		"gender": ["MOBA", "Rol de acción"],
+		"Release date": "21 de Agosto de 2012"
 
 	},
 
@@ -192,7 +209,8 @@
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["Battle Royal", "Shotter en primera persona"]
+		"gender": ["MOBA", "Rol de acción"],
+		"Release date": "21 de Agosto de 2012"
 
 	},
 
@@ -203,7 +221,8 @@
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["Battle Royal", "Shotter en primera persona"]
+		"gender": ["MOBA", "Rol de acción"],
+		"Release date": "21 de Agosto de 2012"
 
 	},
 
@@ -214,7 +233,8 @@
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["Battle Royal", "Shotter en primera persona"]
+		"gender": ["MOBA", "Rol de acción"],
+		"Release date": "21 de Agosto de 2012"
 
 	},
 
@@ -225,7 +245,8 @@
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["Battle Royal", "Shotter en primera persona"]
+		"gender": ["MOBA", "Rol de acción"],
+		"Release date": "21 de Agosto de 2012"
 
 	},
 
@@ -236,7 +257,8 @@
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["Battle Royal", "Shotter en primera persona"]
+		"gender": ["MOBA", "Rol de acción"],
+		"Release date": "21 de Agosto de 2012"
 
 	},
 
@@ -247,7 +269,8 @@
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["Battle Royal", "Shotter en primera persona"]
+		"gender": ["MOBA", "Rol de acción"],
+		"Release date": "21 de Agosto de 2012"
 
 	},
 
@@ -258,7 +281,8 @@
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["Battle Royal", "Shotter en primera persona"]
+		"gender": ["MOBA", "Rol de acción"],
+		"Release date": "21 de Agosto de 2012"
 
 	},
 
@@ -269,7 +293,8 @@
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["Battle Royal", "Shotter en primera persona"]
+		"gender": ["MOBA", "Rol de acción"],
+		"Release date": "21 de Agosto de 2012"
 
 	},
 
@@ -280,7 +305,8 @@
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["Battle Royal", "Shotter en primera persona"]
+		"gender": ["MOBA", "Rol de acción"],
+		"Release date": "21 de Agosto de 2012"
 
 	},
 
@@ -291,7 +317,8 @@
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["Battle Royal", "Shotter en primera persona"]
+		"gender": ["MOBA", "Rol de acción"],
+		"Release date": "21 de Agosto de 2012"
 
 	},
 
@@ -302,7 +329,8 @@
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["Battle Royal", "Shotter en primera persona"]
+		"gender": ["MOBA", "Rol de acción"],
+		"Release date": "21 de Agosto de 2012"
 
 	},
 
@@ -313,7 +341,8 @@
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["Battle Royal", "Shotter en primera persona"]
+		"gender": ["MOBA", "Rol de acción"],
+		"Release date": "21 de Agosto de 2012"
 
 	},
 
@@ -324,7 +353,8 @@
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["Battle Royal", "Shotter en primera persona"]
+		"gender": ["MOBA", "Rol de acción"],
+		"Release date": "21 de Agosto de 2012"
 
 	}
 ]
