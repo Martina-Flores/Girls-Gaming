@@ -14,7 +14,7 @@
 	{
 		"title": "Call of Duty: Modern Warfare II",
 		"company": "Activision",
-		"cover": "https://image.api.playstation.com/vulcan/ap/rnd/202205/2800/iQGgKYUg9YwjPVNM0kE8jeRN.jpg",
+		"cover": "img/img-2.jpg",
 		"tags": ["Agrupación de equipos", "Chat de voz", "Chat de texto", "Mutear el chat", "Sistema de reporte", "Multijugador competitivo", "Sexismo", "Comunidad tóxica", "Público mayormente masculino"],
 		"description": "En Call of Duty®: Modern Warfare® II, los jugadores se verán inmersos en un conflicto a escala global sin precedentes que incluye el regreso de Operadores icónicos de la fuerza operativa 141",
 		"platform": ["PC", "PS4", "PS5", "Xbox One"],
@@ -27,7 +27,7 @@
 	{
 		"title": "Valorant",
 		"company": "Riot Games",
-		"cover": "https://img.redbull.com/images/c_fill,w_1200,h_600,g_auto,f_auto,q_auto/redbullcom/2021/2/23/lw2mnvl4myz7br8okktn/valorant",
+		"cover": "img/img-3.jpg",
 		"tags": ["Agrupación de equipos", "Chat de voz", "Chat de texto", "Mutear el chat", "Censura insultos", "Sistema de reporte", "Multijugador competitivo", "Sexismo", "Acoso", "Comunidad tóxica"],
 		"description": "VALORANT es un juego de disparos táctico 5v5 con personajes y ambientado en un escenario global. Piensa más rápido, juega mejor y eclipsa a tus enemigos con habilidades tácticas, precisión de armas y juego en equipo adaptable.",
 		"platform": ["PC"],
@@ -40,7 +40,7 @@
 	{
 		"title": "Counter-Strike Global Offensive",
 		"company": "Valve Corporation",
-		"cover": "https://cdn.akamai.steamstatic.com/steam/apps/730/capsule_616x353.jpg?t=1683566799",
+		"cover": "img/img-4.jpg",
 		"tags": ["Agrupación de equipos", "Chat de voz", "Chat de texto", "Mutear el chat", "Sistema de reporte", "Multijugador competitivo", "Sexismo", "Comunidad tóxica", "Público mayormente masculino"],
 		"description": "Counter-Strike: Global Ofensive (CS:GO) amplía el juego de disparos en primera persona por equipos del que fue pionero cuando salió en 1999. Dos equipos compiten en múltiples rondas con un modo de juego enfocado en objetivos con la misión de ganar suficientes rondas para llevarse la victoria.",
 		"platform": ["PC", "Xbox 360", "Xbox One", "PS3"],
@@ -53,7 +53,7 @@
 	{
 		"title": "Rocket League",
 		"company": "Psyonix",
-		"cover": "https://static.13.cl/7/sites/default/files/images/ocupload/rocket-league.jpeg",
+		"cover": "img/img-5.jpg",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -66,7 +66,7 @@
 	{
 		"title": "Fornite",
 		"company": "Activision",
-		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
+		"cover": "img/img-6.jpg",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -79,7 +79,7 @@
 	{
 		"title": "Genshin Impact",
 		"company": "Activision",
-		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
+		"cover": "img/img-7.jpg",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -92,7 +92,7 @@
 	{
 		"title": "Hearthstone",
 		"company": "Activision",
-		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
+		"cover": "img/img-8.jpg",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -105,7 +105,7 @@
 	{
 		"title": "Destiny 2",
 		"company": "Activision",
-		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
+		"cover": "img/img-9.jpg",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -118,7 +118,7 @@
 	{
 		"title": "Grand Theft Auto V",
 		"company": "Activision",
-		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
+		"cover": "img/img-10.jpg",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -131,7 +131,7 @@
 	{
 		"title": "Rust",
 		"company": "Activision",
-		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
+		"cover": "img/img-11.jpg",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -142,9 +142,9 @@
 	},
 
 	{
-		"title": "FIFA 23",
+		"title": "Overcoocked! 2",
 		"company": "Activision",
-		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
+		"cover": "img/img-12.jpg",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -157,7 +157,7 @@
 	{
 		"title": "Apex Legends",
 		"company": "Activision",
-		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
+		"cover": "img/img-13.jpg",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -170,7 +170,7 @@
 	{
 		"title": "Dead by Daylight",
 		"company": "Activision",
-		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
+		"cover": "img/img-14.jpg",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -183,7 +183,7 @@
 	{
 		"title": "Overwatch",
 		"company": "Activision",
-		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
+		"cover": "img/img-15.jpg",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -196,7 +196,7 @@
 	{
 		"title": "Rainbow Six Siege",
 		"company": "Activision",
-		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
+		"cover": "img/img-16.jpg",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -209,7 +209,7 @@
 	{
 		"title": "Minecraft",
 		"company": "Activision",
-		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
+		"cover": "img/img-17.jpg",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -222,7 +222,7 @@
 	{
 		"title": "Fall Guys",
 		"company": "Activision",
-		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
+		"cover": "img/img-18.jpg",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -235,7 +235,7 @@
 	{
 		"title": "Stardew Valley",
 		"company": "Activision",
-		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
+		"cover": "img/img-19.jpg",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -248,7 +248,7 @@
 	{
 		"title": "Gang Beasts",
 		"company": "Activision",
-		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
+		"cover": "img/img-20.jpg",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -259,9 +259,9 @@
 	},
 
 	{
-		"title": "Battlefield V",
+		"title": "Among Us",
 		"company": "Activision",
-		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
+		"cover": "img/img-21.jpg",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -274,7 +274,7 @@
 	{
 		"title": "Dota 2",
 		"company": "Activision",
-		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
+		"cover": "img/img-22.jpg",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -287,7 +287,7 @@
 	{
 		"title": "Final Fantasy XIV: A realm reborn",
 		"company": "Activision",
-		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
+		"cover": "img/img-23.jpg",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -300,7 +300,7 @@
 	{
 		"title": "World of Warcraft",
 		"company": "Activision",
-		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
+		"cover": "img/img-24.jpg",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -313,7 +313,7 @@
 	{
 		"title": "Team Fortress 2",
 		"company": "Activision",
-		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
+		"cover": "img/img-25.jpg",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -326,7 +326,7 @@
 	{
 		"title": "Call of Duty: Black Ops III",
 		"company": "Activision",
-		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
+		"cover": "img/img-26.jpg",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -339,7 +339,7 @@
 	{
 		"title": "Red Dead Redemption 2",
 		"company": "Activision",
-		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
+		"cover": "img/img-27.jpg",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -352,7 +352,7 @@
 	{
 		"title": "Summoner´s War: Chronicles",
 		"company": "Activision",
-		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
+		"cover": "img/img-28.jpg",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -363,9 +363,9 @@
 	},
 
 	{
-		"title": "Street Fighter 6",
+		"title": "Honkai Star Rail",
 		"company": "Activision",
-		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
+		"cover": "img/img-29.jpg",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -378,7 +378,7 @@
 	{
 		"title": "The Elder Scrolls Online",
 		"company": "Activision",
-		"cover": "https://assets.xboxservices.com/assets/d2/e7/d2e74bfc-22e1-4985-860f-dc76d69e5b8f.jpg?n=CoD-Warzone_GLP-Page-Hero-1084_1920x1080.jpg",
+		"cover": "img/img-30.jpg",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
