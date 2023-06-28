@@ -70,6 +70,8 @@
                 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4" id="trabajos"></div>
             </div>
         </section>
+        
+        
         <script>
     async function juegos() {
         const consulta = await fetch("https://raw.githubusercontent.com/Martina-Flores/Girls-Gaming/main/data.json");
@@ -77,15 +79,15 @@
         var donde = document.querySelector("#trabajos");
         data.forEach(function (t, i) {
             donde.innerHTML +=
-                '<article class="col"><div class="card h-100 shadow-sm ' +
-                t.description +
-                '"><img width="auto" height="auto" src="' +
-                t.cover +
-                '"alt="' +
+                '<<article class="col"><div class="card h-100 shadow-sm"><img width="auto" height="auto" src="' +
+                   t.cover +
+                      '"alt="' +
+                 t.alt +
+                   '" class="card-img-top"><div class="card-body"><h1 class="fs-5"><a href="single.html?nro=' +
+                 i +
+                       '" class="' +
                 t.alt +
-                '" class="card-img-top"><div class="card-body text-secondary" id="tarjetas"><h3 class="fs-5"><a href="single.html?nro=' +
-                i +
-                '" class="link-secondary">' +
+                  '">' +
                 t.title +
                 "</a></h3><p>" +
                 t.company +
@@ -109,4 +111,3 @@
         <script src="script.js"></script>
     </body>
 </html>
-
