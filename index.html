@@ -3,91 +3,70 @@
 <html lang="es">
     <head>
         <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
-        
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap" rel="stylesheet">
-        
-        <style>
-            :root{
-                --bs-body-font-family: 'Quicksand', sans-serif; 
-            }
-              #frase {
-                background: #e6edd0 url("https://i.pinimg.com/564x/ea/ca/19/eaca1997f27a712711550f326bf1e55c.jpg") center -10vh no-repeat;
-                background-size: cover;
-            }
-            
-            
-            
-            nav {
-                background: #E9E5E6;
-            }
-            
-            body {
-                background: #fff0f3;
-            }
-            
-            #tarjetas {
-                background: #ffe0e8;
-            }
-            
-            
-        </style>
+        <meta name="viewport" content="width=device-width, initial-scale=1, " />
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous"> 
+        <link rel="stylesheet" type="text/css" href="style.css" />
         <title>Martina Flores</title>
     </head>
+    
+    
     <body>
-        <!--Barra de navegacion-->
-        <nav class="navbar fixed-top navbar-expand-lg bg-body-tertiary shadow-sm">
-  <div class="container px-4" id="barranav">
-    <a class="navbar-brand" href="index.html">GirlsGaming</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#NavBar" aria-controls="NavBar" aria-expanded="false" aria-label="Toggle navigation">
+        
+    <header>
+        <nav class="navbar fixed-top navbar-expand-lg">
+  <div class="container-fluid px-4">
+      <a class="navbar-brand" href="index.html">GirlsGaming</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse" id="NavBar">
-      <div class="navbar-nav ms-auto mb-2 mb-lg-0">
-        <a class="nav-link active" aria-current="page" href="index.html">Home</a>
-        <a class="nav-link" href="#">Sobre nosotros</a>
-        <a class="nav-link" href="#">Explorar</a>
-      </div>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="single.html">Sobre nosotros</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="page-2.html">Explorar</a>
+        </li>
+      </ul>
     </div>
   </div>
 </nav>
+ </header>   
+        
+        
         <!--Presentación página-->
-        <section class="py-5 text-center" id="frase">
-                <div>
-                    <div class="row">
-                        <div class="col py-5">
-                            <p class="display-3 p-1 text-white">Algo tiene que estar aquí.</p>
-                        </div>
-                    </div>
-                </div>
-            </section>
+    <div class="container-cover">
+        <div class="container-cover-info">
+        <h1>GirlsGaming</h1>
+            <p>Minions ipsum tulaliloo bappleees poopayee belloo! Hana dul sae belloo! Poulet tikka masala ti aamoo! Poopayee bananaaaa po kass. Aaaaaah po kass la bodaaa pepete wiiiii aaaaaah poulet tikka masala tulaliloo.</p>
+        </div>
+     </div>
         
-        
-        
+<div class="container py-3">
+        <select id="filtro">
+      <option value="Todos">Todos</option>
+  <option value="Muy violento">Muy violento</option>
+  <option value="Medianamente violento">Medianamento violento</option>
+  <option value="Poco violento">Poco violento</option>
+  <option value="Juego seguro">Juego seguro</option>
+  </select>
+
+  <ul id="lista"></ul>
+ </div>
         <!--bordes-->
         <section class="border-top border-bottom" id="losTrabajos">
             
             <!--Desplegable categorías-->
-            <div class="container py-3 dropdown">
-  <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
-Seleccionar categoría  </button>
-  <ul class="dropdown-menu dropdown-menu-dark">
-    <li><a class="dropdown-item" href="https://store.epicgames.com/es-ES/browse?sortBy=releaseDate&sortDir=DESC&priceTier=tierDiscouted&category=Game&count=40&start=0">Muy violento</a></li>
-    <li><a class="dropdown-item" href="#">Medianamente violento</a></li>
-    <li><a class="dropdown-item" href="#">Poco violento</a></li>
-      <li><a class="dropdown-item" href="#">Juego seguro</a></li>
-  </ul>
-</div>
             
-            <!--Desplegable categorías-->
-            
-            
-            
+          
+             
+                  
             <!--Sección juegos-->
-            <div class="container py-5">
+            <div class="container py-4">
+                
                 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4" id="trabajos"></div>
             </div>
         </section>
@@ -109,6 +88,11 @@ Seleccionar categoría  </button>
             <div class="container px-5"><p class="text-center text-white small">Martina Flores &copy; 2023</p></div>
         </footer>
         
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js" integrity="sha384-qKXV1j0HvMUeCBQ+QVp7JcfGl760yU08IQ+GpUo5hlbpg51QRiuqHAJz8+BrxE/N" crossorigin="anonymous"></script>
+        <script src="script.js"></script>
+    </body>
+</html>
+
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js" integrity="sha384-qKXV1j0HvMUeCBQ+QVp7JcfGl760yU08IQ+GpUo5hlbpg51QRiuqHAJz8+BrxE/N" crossorigin="anonymous"></script>
     </body>
 </html>
