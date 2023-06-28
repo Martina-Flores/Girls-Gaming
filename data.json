@@ -1,7 +1,7 @@
 [{
 		"title": "League of Legends",
 		"company": "Riot Games",
-		"cover": "img/img-1.jpg",
+		"cover": "img/img-1.webp",
 		"tags": ["Agrupación de equipos", "Chat de texto", "Mutear el chat", "Censura insultos", "Sistema de reporte", "Sexualización de personajes femeninos", "Multijugador competitivo", "Comunidad tóxica", "Sexismo", "Público mayormente masculino"],
 		"description": "League of Legends es un juego de estrategia por equipos en el que dos equipos conformados por cinco poderosos campeones se enfrentan para destruir la base del otro. Elige de entre más de 140 campeones para realizar jugadas épicas, asegurar asesinatos y destruir torretas mientras avanzas hacia la victoria.",
 		"platform": ["PC"],
@@ -14,7 +14,7 @@
 	{
 		"title": "Call of Duty: Modern Warfare II",
 		"company": "Activision",
-		"cover": "img/img-2.jpg",
+		"cover": "img/img-2.webp",
 		"tags": ["Agrupación de equipos", "Chat de voz", "Chat de texto", "Mutear el chat", "Sistema de reporte", "Multijugador competitivo", "Sexismo", "Comunidad tóxica", "Público mayormente masculino"],
 		"description": "En Call of Duty®: Modern Warfare® II, los jugadores se verán inmersos en un conflicto a escala global sin precedentes que incluye el regreso de Operadores icónicos de la fuerza operativa 141",
 		"platform": ["PC", "PS4", "PS5", "Xbox One"],
@@ -27,7 +27,7 @@
 	{
 		"title": "Valorant",
 		"company": "Riot Games",
-		"cover": "img/img-3.jpg",
+		"cover": "img/img-3.webp",
 		"tags": ["Agrupación de equipos", "Chat de voz", "Chat de texto", "Mutear el chat", "Censura insultos", "Sistema de reporte", "Multijugador competitivo", "Sexismo", "Acoso", "Comunidad tóxica"],
 		"description": "VALORANT es un juego de disparos táctico 5v5 con personajes y ambientado en un escenario global. Piensa más rápido, juega mejor y eclipsa a tus enemigos con habilidades tácticas, precisión de armas y juego en equipo adaptable.",
 		"platform": ["PC"],
@@ -40,7 +40,7 @@
 	{
 		"title": "Counter-Strike Global Offensive",
 		"company": "Valve Corporation",
-		"cover": "img/img-4.jpg",
+		"cover": "img/img-4.webp",
 		"tags": ["Agrupación de equipos", "Chat de voz", "Chat de texto", "Mutear el chat", "Sistema de reporte", "Multijugador competitivo", "Sexismo", "Comunidad tóxica", "Público mayormente masculino"],
 		"description": "Counter-Strike: Global Ofensive (CS:GO) amplía el juego de disparos en primera persona por equipos del que fue pionero cuando salió en 1999. Dos equipos compiten en múltiples rondas con un modo de juego enfocado en objetivos con la misión de ganar suficientes rondas para llevarse la victoria.",
 		"platform": ["PC", "Xbox 360", "Xbox One", "PS3"],
@@ -53,7 +53,7 @@
 	{
 		"title": "Rocket League",
 		"company": "Psyonix",
-		"cover": "img/img-5.jpg",
+		"cover": "img/img-5.webp",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -66,7 +66,7 @@
 	{
 		"title": "Fornite",
 		"company": "Activision",
-		"cover": "img/img-6.jpg",
+		"cover": "img/img-6.webp",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -79,7 +79,7 @@
 	{
 		"title": "Genshin Impact",
 		"company": "Activision",
-		"cover": "img/img-7.jpg",
+		"cover": "img/img-7.webp",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -92,7 +92,7 @@
 	{
 		"title": "Hearthstone",
 		"company": "Activision",
-		"cover": "img/img-8.jpg",
+		"cover": "img/img-8.webp",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -105,7 +105,7 @@
 	{
 		"title": "Destiny 2",
 		"company": "Activision",
-		"cover": "img/img-9.jpg",
+		"cover": "img/img-9.webp",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -118,7 +118,7 @@
 	{
 		"title": "Grand Theft Auto V",
 		"company": "Activision",
-		"cover": "img/img-10.jpg",
+		"cover": "img/img-10.webp",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -131,7 +131,7 @@
 	{
 		"title": "Rust",
 		"company": "Activision",
-		"cover": "img/img-11.jpg",
+		"cover": "img/img-11.webp",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -144,7 +144,7 @@
 	{
 		"title": "Overcoocked! 2",
 		"company": "Activision",
-		"cover": "img/img-12.jpg",
+		"cover": "img/img-12.webp",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -157,7 +157,7 @@
 	{
 		"title": "Apex Legends",
 		"company": "Activision",
-		"cover": "img/img-13.jpg",
+		"cover": "img/img-13.webp",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -170,7 +170,7 @@
 	{
 		"title": "Dead by Daylight",
 		"company": "Activision",
-		"cover": "img/img-14.jpg",
+		"cover": "img/img-14.webp",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -183,7 +183,7 @@
 	{
 		"title": "Overwatch",
 		"company": "Activision",
-		"cover": "img/img-15.jpg",
+		"cover": "img/img-15.webp",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -196,7 +196,7 @@
 	{
 		"title": "Rainbow Six Siege",
 		"company": "Activision",
-		"cover": "img/img-16.jpg",
+		"cover": "img/img-16.webp",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -209,7 +209,7 @@
 	{
 		"title": "Minecraft",
 		"company": "Activision",
-		"cover": "img/img-17.jpg",
+		"cover": "img/img-17.webp",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -222,7 +222,7 @@
 	{
 		"title": "Fall Guys",
 		"company": "Activision",
-		"cover": "img/img-18.jpg",
+		"cover": "img/img-18.webp",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -235,7 +235,7 @@
 	{
 		"title": "Stardew Valley",
 		"company": "Activision",
-		"cover": "img/img-19.jpg",
+		"cover": "img/img-19.webp",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -248,7 +248,7 @@
 	{
 		"title": "Gang Beasts",
 		"company": "Activision",
-		"cover": "img/img-20.jpg",
+		"cover": "img/img-20.webp",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -261,7 +261,7 @@
 	{
 		"title": "Among Us",
 		"company": "Activision",
-		"cover": "img/img-21.jpg",
+		"cover": "img/img-21.webp",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -274,7 +274,7 @@
 	{
 		"title": "Dota 2",
 		"company": "Activision",
-		"cover": "img/img-22.jpg",
+		"cover": "img/img-22.webp",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -287,7 +287,7 @@
 	{
 		"title": "Final Fantasy XIV: A realm reborn",
 		"company": "Activision",
-		"cover": "img/img-23.jpg",
+		"cover": "img/img-23.webp",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -300,7 +300,7 @@
 	{
 		"title": "World of Warcraft",
 		"company": "Activision",
-		"cover": "img/img-24.jpg",
+		"cover": "img/img-24.webp",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -313,7 +313,7 @@
 	{
 		"title": "Team Fortress 2",
 		"company": "Activision",
-		"cover": "img/img-25.jpg",
+		"cover": "img/img-25.webp",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -326,7 +326,7 @@
 	{
 		"title": "Call of Duty: Black Ops III",
 		"company": "Activision",
-		"cover": "img/img-26.jpg",
+		"cover": "img/img-26.webp",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -339,7 +339,7 @@
 	{
 		"title": "Red Dead Redemption 2",
 		"company": "Activision",
-		"cover": "img/img-27.jpg",
+		"cover": "img/img-27.webp",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -352,7 +352,7 @@
 	{
 		"title": "Summoner´s War: Chronicles",
 		"company": "Activision",
-		"cover": "img/img-28.jpg",
+		"cover": "img/img-28.webp",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -365,7 +365,7 @@
 	{
 		"title": "Honkai Star Rail",
 		"company": "Activision",
-		"cover": "img/img-29.jpg",
+		"cover": "img/img-29.webp",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
@@ -378,7 +378,7 @@
 	{
 		"title": "The Elder Scrolls Online",
 		"company": "Activision",
-		"cover": "img/img-30.jpg",
+		"cover": "img/img-30.webp",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
