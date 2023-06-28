@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@400;700&family=Mukta:wght@400;700&display=swap');
+
+*{
+    margin:0;
+    padding: 0;
+    font-family: 'Mukta', sans-serif;
+        
+    }
+
+body{
+    background: #fff0f3;
+}
+
+header,
+nav{
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 80px;
+    box-shadow: 0 6px 30px -22px blue;
+    background: #ff669e;
+    
+}
+
+nav, a:hover {
+    color: #FFC0CB;
+}
+
+.container-fluid{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ff669e;
+}
+
+.navbar-brand{
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-family: 'Kanit', sans-serif;
+    
+}
+
+
+.navbarNav,
+ul,
+li,
+a{
+    font-size: 20px;
+    margin: 0px 05px;
+     transition: 0,5ms;
+}
+
+.nav-link:hover{
+    color: aquamarine;
+
+}
+
+
+
+.container-cover{
+     width: 100%;
+    height: 300px;
+    position: relative;
+    background: url("https://media.vandal.net/i/1200x630/1-2020/202012913293534_1.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container-cover-info{
+    width: 100%;
+    height: 300px;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    z-index: 1;
+    background-image: url("https://media.vandal.net/i/1200x630/1-2020/202012913293534_1.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background: rgba(253,222,238, 0.5);
+}
+
+            
+
+#tarjetas {
+    background: #ffe0e8;
+            }
+
