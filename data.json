@@ -1,7 +1,7 @@
 [{
 		"title": "League of Legends",
 		"company": "Riot Games",
-		"cover": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/LOL_2560x1440-98749e0d718e82d27a084941939bc9d3",
+		"cover": "img/img-1.jpg",
 		"tags": ["Agrupación de equipos", "Chat de texto", "Mutear el chat", "Censura insultos", "Sistema de reporte", "Sexualización de personajes femeninos", "Multijugador competitivo", "Comunidad tóxica", "Sexismo", "Público mayormente masculino"],
 		"description": "League of Legends es un juego de estrategia por equipos en el que dos equipos conformados por cinco poderosos campeones se enfrentan para destruir la base del otro. Elige de entre más de 140 campeones para realizar jugadas épicas, asegurar asesinatos y destruir torretas mientras avanzas hacia la victoria.",
 		"platform": ["PC"],
