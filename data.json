@@ -70,21 +70,21 @@
 
 	{
 		"title": "Fornite",
-		"company": "Activision",
+		"company": "Epic Games",
 		"cover": "img/img-6.webp",
-		"alt": "Portada del videojuego League of Legends",
-		"tags": ["Chat de voz", "no hay censura"],
-		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
-		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["MOBA", "Rol de acción"],
+		"alt": "Portada del videojuego Fornite",
+		"tags": ["Agrupación de equipos", "Chat de voz", "Chat de texto", "Sistema de reporte", "Multijugador competitivo"],
+		"description": "Explora ambientes grandes y destructibles donde todas las partidas son diferentes. Forma equipo con amigos y esprinta, trepa y aplasta todo para conseguir la victoria campal, ya sea al construir en Batalla campal de Fortnite o sin hacerlo en el nuevo Cero construcción de Fortnite.",
+		"platform": ["PC", "PS4", "PS5", "Xbox One", "Nintendo Switch"],
+		"gender": ["Battle Royal", "Shooter en tercera persona", "Superviviencia"],
 		"categoria": "Poco violento",
-		"Release date": "21 de Agosto de 2012"
+		"Release date": "21 de Julio de 2017"
 
 	},
 
 	{
 		"title": "Genshin Impact",
-		"company": "Activision",
+		"company": "Hoyoverse",
 		"cover": "img/img-7.webp",
 		"alt": "Portada del videojuego League of Legends",
 		"tags": ["Chat de voz", "no hay censura"],
@@ -105,7 +105,7 @@
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
 		"gender": ["MOBA", "Rol de acción"],
-		"categoria": "Poco violento",
+		"categoria": "Juego seguro",
 		"Release date": "21 de Agosto de 2012"
 
 	},
@@ -161,7 +161,7 @@
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
 		"gender": ["MOBA", "Rol de acción"],
-		"categoria": "Muy violento",
+		"categoria": "Juego seguro",
 		"Release date": "21 de Agosto de 2012"
 
 	},
@@ -203,7 +203,7 @@
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
 		"gender": ["MOBA", "Rol de acción"],
-		"categoria": "Muy violento",
+		"categoria": "Medianamente violento",
 		"Release date": "21 de Agosto de 2012"
 
 	},
@@ -259,7 +259,7 @@
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
 		"gender": ["MOBA", "Rol de acción"],
-		"categoria": "Muy violento",
+		"categoria": "Juego seguro",
 		"Release date": "21 de Agosto de 2012"
 
 	},
@@ -273,7 +273,7 @@
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
 		"gender": ["MOBA", "Rol de acción"],
-		"categoria": "Muy violento",
+		"categoria": "Juego seguro",
 		"Release date": "21 de Agosto de 2012"
 
 	},
@@ -287,7 +287,7 @@
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
 		"gender": ["MOBA", "Rol de acción"],
-		"categoria": "Muy violento",
+		"categoria": "Juego seguro",
 		"Release date": "21 de Agosto de 2012"
 
 	},
@@ -315,7 +315,7 @@
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
 		"gender": ["MOBA", "Rol de acción"],
-		"categoria": "Muy violento",
+		"categoria": "Medianamente violento",
 		"Release date": "21 de Agosto de 2012"
 
 	},
@@ -343,7 +343,7 @@
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
 		"gender": ["MOBA", "Rol de acción"],
-		"categoria": "Muy violento",
+		"categoria": "Medianamente violento",
 		"Release date": "21 de Agosto de 2012"
 
 	},
@@ -385,7 +385,7 @@
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
 		"gender": ["MOBA", "Rol de acción"],
-		"categoria": "Muy violento",
+		"categoria": "Juego seguro",
 		"Release date": "21 de Agosto de 2012"
 
 	},
@@ -399,7 +399,7 @@
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
 		"platform": ["PC", "PS4", "PS5"],
 		"gender": ["MOBA", "Rol de acción"],
-		"categoria": "Muy violento",
+		"categoria": "Juego seguro",
 		"Release date": "21 de Agosto de 2012"
 
 	},
