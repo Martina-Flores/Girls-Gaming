@@ -265,43 +265,43 @@
 
 	{
 		"title": "Gang Beasts",
-		"company": "Activision",
+		"company": " Boneloaf",
 		"cover": "img/img-20.webp",
-		"alt": "Portada del videojuego League of Legends",
-		"tags": ["Chat de voz", "no hay censura"],
-		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
-		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["MOBA", "Rol de acción"],
+		"alt": "Portada del videojuego Gang Beasts",
+		"tags": ["Sistema de reporte"],
+		"description": "Gang Beasts es un desternillante juego multijugador de peleas absurdas entre personajes gelatinosos y gruñones que tienen lugar en los peligrosos entornos de las calles de la ciudad de Picadillo.",
+		"platform": ["PC", "PS4", "Xbox One", "Nintendo"],
+		"gender": ["Pelea", "Rol de acción"],
 		"categoria": "Juego seguro",
-		"Release date": "21 de Agosto de 2012"
+		"Release date": "12 de Diciembre de 2017"
 
 	},
 
 	{
 		"title": "Among Us",
-		"company": "Activision",
+		"company": "Innersloth",
 		"cover": "img/img-21.webp",
-		"alt": "Portada del videojuego League of Legends",
-		"tags": ["Chat de voz", "no hay censura"],
-		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
-		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["MOBA", "Rol de acción"],
+		"alt": "Portada del videojuego Among Us",
+		"tags": ["Chat de texto", "Agrupación de equipos", "Personalización de avatar"],
+		"description": "Un juego para 4 a 15 jugadores en línea o en modo local mediante wifi en el que debéis preparar vuestra nave espacial para el despegue. Pero, cuidado: ¡uno o más jugadores elegidos al azar entre la tripulación son impostores dispuestos a matar al resto!",
+		"platform": ["PC", "PS4", "Mobile", "Nintendo"],
+		"gender": ["Supervivencia", "Casual"],
 		"categoria": "Juego seguro",
-		"Release date": "21 de Agosto de 2012"
+		"Release date": "18 de Diciembre de 2020"
 
 	},
 
 	{
 		"title": "Dota 2",
-		"company": "Activision",
+		"company": "Valve Corporation",
 		"cover": "img/img-22.webp",
-		"alt": "Portada del videojuego League of Legends",
-		"tags": ["Chat de voz", "no hay censura"],
-		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
-		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["MOBA", "Rol de acción"],
-		"categoria": "Muy violento",
-		"Release date": "21 de Agosto de 2012"
+		"alt": "Portada del videojuego Dota 2",
+		"tags": ["Agrupación de equipos", "Personalización de personajes femeninos", "Sexismo", "Chat de texto", "Sistema de reportes", "Comunidad tóxica"],
+		"description": "Cada día, millones de jugadores de todo el mundo entran en batalla como uno de los más de cien héroes de Dota. Y no importa si es su décima hora de juego o la milésima, siempre hay algo nuevo que descubrir. Con frecuentes actualizaciones que garantizan una evolución constante de jugabilidad, características y héroes, Dota 2 realmente ha cobrado vida propia.",
+		"platform": ["PC"],
+		"gender": ["MOBA", "Estrategia"],
+		"categoria": "Medianamente violento",
+		"Release date": "9 de Julio de 2013"
 
 	},
 
