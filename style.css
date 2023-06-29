@@ -93,5 +93,27 @@ a{
 
 #tarjetas {
     background: #ffe0e8;
+    cursor: pointer;
+    transition: 1s;
             }
 
+#tarjetas:hover{
+    transform: scale(1.2);
+}
+
+
+.container-info,
+h2{
+    text-align: center;
+}
+
+.article,
+card{
+    cursor: pointer;
+    transition: 1s;
+}
+
+.article,
+card:hover{
+    transform: scale(1.2);
+}
