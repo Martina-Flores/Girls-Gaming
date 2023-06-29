@@ -86,181 +86,180 @@
 		"title": "Genshin Impact",
 		"company": "Hoyoverse",
 		"cover": "img/img-7.webp",
-		"alt": "Portada del videojuego League of Legends",
-		"tags": ["Chat de voz", "no hay censura"],
-		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
+		"alt": "Portada del videojuego Genshin Impact",
+		"tags": ["Chat de texto", "Sexualización de personajes femeninos"],
+		"description": "Comienza tu travesía en Teyvat para buscar a tu familiar perdido y encontrar respuestas sobre los dioses elementales. Explora cada rincón de este mundo maravilloso, une fuerzas con un amplio repertorio de personajes, y revela los muchos misterios ocultos...",
 		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["MOBA", "Rol de acción"],
+		"gender": ["Gacha", "Rol de acción", "Fantasía", "Aventura"],
 		"categoria": "Juego seguro",
-		"Release date": "21 de Agosto de 2012"
+		"Release date": "28 de septiembre de 2020"
 
 	},
 
 	{
 		"title": "Hearthstone",
-		"company": "Activision",
+		"company": "Blizzard",
 		"cover": "img/img-8.webp",
-		"alt": "Portada del videojuego League of Legends",
-		"tags": ["Chat de voz", "no hay censura"],
-		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
-		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["MOBA", "Rol de acción"],
+		"alt": "Portada del videojuego Hearthstone",
+		"tags": ["Sexualización de personajes femeninos", "Chat de texto", "Multijugador competitivo"],
+		"description": "Es un juego de cartas coleccionables en líneat. Está centrado en el universo de Warcraft, y es de descarga gratuita, aunque con compras opcionales para acelerar el ritmo de colección de cartas y acceso a contenidos extra.",
+		"platform": ["PC", "Mobile"],
+		"gender": ["Estrategia", "Coleccionable", "Juego por turnos"],
 		"categoria": "Juego seguro",
-		"Release date": "21 de Agosto de 2012"
+		"Release date": "11 de Marzo de 2014"
 
 	},
 
 	{
 		"title": "Destiny 2",
-		"company": "Activision",
+		"company": "Bungie Studios",
 		"cover": "img/img-9.webp",
-		"alt": "Portada del videojuego League of Legends",
-		"tags": ["Chat de voz", "no hay censura"],
-		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
-		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["MOBA", "Rol de acción"],
+		"alt": "Portada del videojuego Destiny 2",
+		"tags": ["Chat de voz", "Chat de texto", "Mutear el chat", "Sistema de reporte", "Multijugador competitivo", "Personalización de personaje"],
+		"description": "Sumérgete en el mundo de Destiny 2 para explorar los misterios del sistema solar y vive la experiencia de combate de respuesta rápida de este shooter en primera persona. Consigue poderosas habilidades elementales y colecciona equipamiento único para personalizar tanto el aspecto como el estilo de juego de tu guardián.",
+		"platform": ["PC", "PS4", "PS5", "Xbox One"],
+		"gender": ["Shooter en primera perona", "Acción"],
 		"categoria": "Poco violento",
-		"Release date": "21 de Agosto de 2012"
+		"Release date": "6 de septiembre de 2017"
 
 	},
 
 	{
 		"title": "Grand Theft Auto V",
-		"company": "Activision",
+		"company": "Rockstar Games",
 		"cover": "img/img-10.webp",
-		"alt": "Portada del videojuego League of Legends",
-		"tags": ["Chat de voz", "no hay censura"],
-		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
-		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["MOBA", "Rol de acción"],
+		"alt": "Portada del videojuego GTA v",
+		"tags": ["Chat de voz", ,"Chat de texto", "No hay censura de insultos", "Sexualización de personajes femeninos", "Sexismo", "Personalización de avatar", "Comunidad tóxica"],
+		"description": "Descubre un mundo en constante evolución repleto de opciones y formas de jugar mientras llegas a lo más alto del escalafón criminal de Los Santos y Blaine County en la mejor experiencia compartida en línea.",
+		"platform": ["PC", "PS4", "PS5", "PS3", "Xbox One",],
+		"gender": ["Aventura", "Acción", "Multijugador en linea"],
 		"categoria": "Medianamente violento",
-		"Release date": "21 de Agosto de 2012"
+		"Release date": "17 de septiembre de 2013"
 
 	},
 
 	{
 		"title": "Rust",
-		"company": "Activision",
+		"company": " Facepunch Studios",
 		"cover": "img/img-11.webp",
-		"alt": "Portada del videojuego League of Legends",
-		"tags": ["Chat de voz", "no hay censura"],
-		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
-		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["MOBA", "Rol de acción"],
+		"alt": "Portada del videojuego Rust",
+		"tags": ["Chat de voz", "Chat de texto", "Personalización de avatar", "No hay censura de insultos"],
+		"description": "El título reta al jugador a conseguir recursos para sobrevivir y poder fabricar ítems en el juego, con muy pocos objetos de inicio. Los jugadores pueden conseguir recursos interactuando con el escenario o encontrándolos por suerte, e ir construyendo sus elementos poco a poco hasta ampliar sus recursos.",
+		"platform": ["PC", "PS4", "Xbox One"],
+		"gender": ["Supervivencia", "Aventura"],
 		"categoria": "Poco violento",
-		"Release date": "21 de Agosto de 2012"
+		"Release date": "8 de febrero de 2018"
 
 	},
 
 	{
 		"title": "Overcoocked! 2",
-		"company": "Activision",
+		"company": "Team17",
 		"cover": "img/img-12.webp",
-		"alt": "Portada del videojuego League of Legends",
-		"tags": ["Chat de voz", "no hay censura"],
-		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
-		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["MOBA", "Rol de acción"],
+		"alt": "Portada del videojuego Overcoocked! 2",
+		"tags": ["Agrupación de equipos", "Chat de voz", "Sistema de reporte"],
+		"description": "¡Overcooked regresa con un nuevo plato de cocina caótica! Viaja de regreso al Reino de la Cebolla y forma un equipo de chefs en el clásico modo cooperativo local o en línea, con hasta cuatro jugadores. Ponte el delantal porque llegó la hora de salvar al mundo (¡otra vez!)",
+		"platform": ["PC", "PS4", "PS5", "Nintendo", "Xbox Series"],
+		"gender": ["Simulación"],
 		"categoria": "Juego seguro",
-		"Release date": "21 de Agosto de 2012"
+		"Release date": "7 de agosto de 2018"
 
 	},
 
 	{
 		"title": "Apex Legends",
-		"company": "Activision",
+		"company": "Respawn Entertainment",
 		"cover": "img/img-13.webp",
-		"alt": "Portada del videojuego League of Legends",
-		"tags": ["Chat de voz", "no hay censura"],
-		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
-		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["MOBA", "Rol de acción"],
+		"alt": "Portada del videojuego Apex Legends",
+		"tags": ["Agrupación de equipos", "Chat de voz", "Chat de texto", "Mutear el chat", "Sexualización de personajes femeninos", "Sistema de reporte", "Multijugador competitivo"],
+		"description": "Domina un elenco creciente y diverso de leyendas, el juego táctico basado en pelotones y las grandes innovaciones que superan la experiencia del Battle Royale (en un mundo duro en el que todo vale). Te damos la bienvenida a la nueva evolución de los juegos de acción en primera persona.",
+		"platform": ["PC", "PS4", "PS5", "Nintendo", "Xbox One"],
+		"gender": ["Battle Royal", "Shooter en primera persona"],
 		"categoria": "Muy violento",
-		"Release date": "21 de Agosto de 2012"
+		"Release date": "4 de Noviembre de 2020"
 
 	},
 
 	{
 		"title": "Dead by Daylight",
-		"company": "Activision",
+		"company": "Behaviour Interactive",
 		"cover": "img/img-14.webp",
-		"alt": "Portada del videojuego League of Legends",
-		"tags": ["Chat de voz", "no hay censura"],
-		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
-		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["MOBA", "Rol de acción"],
-		"categoria": "Poco violento",
-		"Release date": "21 de Agosto de 2012"
+		"alt": "Portada del videojuego Dead by Daylight",
+		"tags": ["Agrupación de equipos", "Chat de voz", "No hay censura de insultos", "Mutear el chat", "Sistema de reporte"],
+		"description": "Dead by Daylight es un juego de horror en modo multijugador de 1 contra 4 donde una persona asume el papel del despiadado asesino y las otras cuatro juegan como sobrevivientes que buscan escapar del asesino mientras evitan que los capturen y los maten.",
+		"platform": ["PC", "PS4", "PS5", "Nintendo"],
+		"gender": ["Supervivencia", "Horror", "Acción"],
+		"categoria": "Medianamente violento",
+		"Release date": "09 de Diciembre de 2021"
 
 	},
 
 	{
 		"title": "Overwatch",
-		"company": "Activision",
+		"company": "Blizzard Entertainment",
 		"cover": "img/img-15.webp",
-		"alt": "Portada del videojuego League of Legends",
-		"tags": ["Chat de voz", "no hay censura"],
-		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
-		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["MOBA", "Rol de acción"],
+		"alt": "Portada del videojuego Overwatch",
+		"tags": ["Agrupación de equipos", "Chat de voz", "Chat de texto", "Mutear chat", "Sistema de reporte", "Sexualización de personajes femeninos", "Comunidad tóxica", "Multijugador competitivo"],
+		"description": "Overwatch 2 es un juego de acción en equipo gratuito ambientado en un futuro optimista en el que todas las partidas presentan una refriega definitiva 5c5. Juega como una luchadora por la libertad que salta en el tiempo, un DJ que arrea a base de ritmos o uno de los más de 30 héroes únicos en batallas en diferentes ubicaciones de todo el mundo.",
+		"platform": ["PC", "PS4", "Xbox One", "Nintendo"],
+		"gender": ["Shooter en primera persona", "Rol de acción"],
 		"categoria": "Medianamente violento",
-		"Release date": "21 de Agosto de 2012"
-
+		"Release date": "24 de Mayo de 2016"
 	},
 
 	{
 		"title": "Rainbow Six Siege",
-		"company": "Activision",
+		"company": " Ubisoft Montreal",
 		"cover": "img/img-16.webp",
-		"alt": "Portada del videojuego League of Legends",
-		"tags": ["Chat de voz", "no hay censura"],
-		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
-		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["MOBA", "Rol de acción"],
+		"alt": "Portada del videojuego Rainbow Six Siege",
+		"tags": ["Agrupación de equipos", "Chat de voz", "No hay censura de insultos", "Sistemda de reporte", "Multijugador competitivo"],
+		"description": "Tom Clancy's Rainbow Six® Siege es un shooter táctico realista por equipos en el que una cuidadosa planificación y ejecución de tu estrategia son claves para conseguir la victoria. Embárcate en un nuevo tipo de asalto usando un nivel de destrucción y unos dispositivos nunca vistos.",
+		"platform": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series"],
+		"gender": ["Shooter en primera persona"],
 		"categoria": "Muy violento",
-		"Release date": "21 de Agosto de 2012"
+		"Release date": "1 de Diciembre de 2015"
 
 	},
 
 	{
 		"title": "Minecraft",
-		"company": "Activision",
+		"company": "Mojang Studios",
 		"cover": "img/img-17.webp",
-		"alt": "Portada del videojuego League of Legends",
-		"tags": ["Chat de voz", "no hay censura"],
-		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
-		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["MOBA", "Rol de acción"],
+		"alt": "Portada del videojuego Minecraft",
+		"tags": ["Chat de texto", "No hay censura de insultos", "Mutear chat"],
+		"description": "En Minecraft, tu aventura inicia con tu imaginación. Construye todo lo que puedas imaginar con recursos ilimitados en el modo creativo o emprende grandes expediciones en el modo supervivencia, viaja por tierras misteriosas y sumérgete en las profundidades de tus propios mundos infinitos. ",
+		"platform": ["PC", "PS4", "PS3", "Mobile", "Xbox One", "Xbox 360", "Xbox Series", "Nintendo", "Wii U"],
+		"gender": ["Mundo abierto", "Supervivencia"],
 		"categoria": "Juego seguro",
-		"Release date": "21 de Agosto de 2012"
+		"Release date": "18 de Noviembre de 2011"
 
 	},
 
 	{
 		"title": "Fall Guys",
-		"company": "Activision",
+		"company": " Mediatonic",
 		"cover": "img/img-18.webp",
-		"alt": "Portada del videojuego League of Legends",
-		"tags": ["Chat de voz", "no hay censura"],
-		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
-		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["MOBA", "Rol de acción"],
+		"alt": "Portada del videojuego Fall Guys",
+		"tags": ["Agrupación de equipos", "Chat de voz" , "Mutear chat", "Personalización de avatar", "Sistema de reporte"],
+		"description": "Lánzate y esquiva todo en tu camino hacia la victoria en el panteón de la torpeza. ¿Novato o profesional? ¿Solo o en grupo? Fall Guys está lleno de risas y diversión en constante evolución. Más que de ganar, se trata de verse lo más ridículo posible. Ponte el disfraz más gracioso que tengas porque el show está por comenzar.",
+		"platform": ["PC", "PS4", "PS5", "Nintendo", "Xbox One"],
+		"gender": ["Battle Royal", "Plataformas"],
 		"categoria": "Juego seguro",
-		"Release date": "21 de Agosto de 2012"
+		"Release date": "4 de agosto de 2020"
 
 	},
 
 	{
 		"title": "Stardew Valley",
-		"company": "Activision",
+		"company": "ConcernedApe",
 		"cover": "img/img-19.webp",
-		"alt": "Portada del videojuego League of Legends",
-		"tags": ["Chat de voz", "no hay censura"],
-		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
-		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["MOBA", "Rol de acción"],
+		"alt": "Portada del videojuego Stardew Valley",
+		"tags": ["Personalización de avatar"],
+		"description": "Acabas de heredar la vieja parcela agrícola de tu abuelo de Stardew Valley. Decides partir hacia una nueva vida con unas herramientas usadas y algunas monedas. ¿Te ves capaz de vivir de la tierra y convertir estos campos descuidados en un hogar próspero?",
+		"platform": ["PC", "Nintendo", "Mobile"],
+		"gender": ["Simulador de vida"],
 		"categoria": "Juego seguro",
-		"Release date": "21 de Agosto de 2012"
+		"Release date": "26 de Febrero de 2016"
 
 	},
 
