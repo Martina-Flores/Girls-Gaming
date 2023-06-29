@@ -124,19 +124,6 @@
 
 	},
 
-	{
-		"title": "Overcoocked! 2",
-		"company": "Team17",
-		"cover": "img/img-12.webp",
-		"alt": "Portada del videojuego Overcoocked! 2",
-		"tags": ["Agrupación de equipos", "Chat de voz", "Sistema de reporte"],
-		"description": "¡Overcooked regresa con un nuevo plato de cocina caótica! Viaja de regreso al Reino de la Cebolla y forma un equipo de chefs en el clásico modo cooperativo local o en línea, con hasta cuatro jugadores. Ponte el delantal porque llegó la hora de salvar al mundo (¡otra vez!)",
-		"platform": ["PC", "PS4", "PS5", "Nintendo", "Xbox Series"],
-		"gender": ["Simulación"],
-		"categoria": "Juego seguro",
-		"Release date": "7 de agosto de 2018"
-
-	},
 
 	{
 		"title": "Apex Legends",
@@ -152,19 +139,6 @@
 
 	},
 
-	{
-		"title": "Dead by Daylight",
-		"company": "Behaviour Interactive",
-		"cover": "img/img-14.webp",
-		"alt": "Portada del videojuego Dead by Daylight",
-		"tags": ["Agrupación de equipos", "Chat de voz", "No hay censura de insultos", "Mutear el chat", "Sistema de reporte"],
-		"description": "Dead by Daylight es un juego de horror en modo multijugador de 1 contra 4 donde una persona asume el papel del despiadado asesino y las otras cuatro juegan como sobrevivientes que buscan escapar del asesino mientras evitan que los capturen y los maten.",
-		"platform": ["PC", "PS4", "PS5", "Nintendo"],
-		"gender": ["Supervivencia", "Horror", "Acción"],
-		"categoria": "Medianamente violento",
-		"Release date": "09 de Diciembre de 2021"
-
-	},
 
 	{
 		"title": "Overwatch",
