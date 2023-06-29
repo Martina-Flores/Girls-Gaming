@@ -296,7 +296,7 @@
 		"company": "Valve Corporation",
 		"cover": "img/img-22.webp",
 		"alt": "Portada del videojuego Dota 2",
-		"tags": ["Agrupación de equipos", "Personalización de personajes femeninos", "Sexismo", "Chat de texto", "Sistema de reportes", "Comunidad tóxica"],
+		"tags": ["Agrupación de equipos", "Sexualización de personajes femeninos", "Sexismo", "Chat de texto", "Sistema de reportes", "Comunidad tóxica"],
 		"description": "Cada día, millones de jugadores de todo el mundo entran en batalla como uno de los más de cien héroes de Dota. Y no importa si es su décima hora de juego o la milésima, siempre hay algo nuevo que descubrir. Con frecuentes actualizaciones que garantizan una evolución constante de jugabilidad, características y héroes, Dota 2 realmente ha cobrado vida propia.",
 		"platform": ["PC"],
 		"gender": ["MOBA", "Estrategia"],
@@ -307,28 +307,28 @@
 
 	{
 		"title": "Final Fantasy XIV: A realm reborn",
-		"company": "Activision",
+		"company": "Square Enix",
 		"cover": "img/img-23.webp",
-		"alt": "Portada del videojuego League of Legends",
-		"tags": ["Chat de voz", "no hay censura"],
-		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
-		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["MOBA", "Rol de acción"],
-		"categoria": "Medianamente violento",
-		"Release date": "21 de Agosto de 2012"
+		"alt": "Portada del videojuego Final Fantasy XIV: A realm reborn",
+		"tags": ["Sexualización de personajes femeninos"],
+		"description": "Forma parte de un alucinante viaje en un increíble FINAL FANTASY en constante evolución mientras emprendes aventuras y exploras el mundo con amigos de todo el mundo.",
+		"platform": ["PC", "PS4", "PS5", "PS3"],
+		"gender": [""MMORPG"],
+		"categoria": "Juego seguro",
+		"Release date": "18 de Febrero de 2014"
 
 	},
 
 	{
 		"title": "World of Warcraft",
-		"company": "Activision",
+		"company": "Blizzard Entertainment",
 		"cover": "img/img-24.webp",
-		"alt": "Portada del videojuego League of Legends",
-		"tags": ["Chat de voz", "no hay censura"],
+		"alt": "Portada del videojuego World of Warcraft",
+		"tags": ["Sexualización de personajes femeninos"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
-		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["MOBA", "Rol de acción"],
-		"categoria": "Muy violento",
+		"platform": ["PC"],
+		"gender": ["MMORPG", "Rol multijugador"],
+		"categoria": "Medianamente violento",
 		"Release date": "21 de Agosto de 2012"
 
 	},
