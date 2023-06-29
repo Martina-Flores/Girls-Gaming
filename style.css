@@ -9,6 +9,7 @@
 
 body{
     background: #fff0f3;
+    
 }
 
 header,
@@ -68,7 +69,7 @@ a{
      width: 100%;
     height: 300px;
     position: relative;
-    background: url("https://media.vandal.net/i/1200x630/1-2020/202012913293534_1.jpg");
+    background: url("img/portada.webp");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -85,10 +86,6 @@ a{
     align-items: center;
     position: relative;
     z-index: 1;
-    background-image: url("https://media.vandal.net/i/1200x630/1-2020/202012913293534_1.jpg");
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
     background: rgba(253,222,238, 0.5);
 }
 
