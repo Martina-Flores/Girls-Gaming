@@ -3,13 +3,13 @@
 <html lang="es">
     <head>
         <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1 " />
+        <meta name="viewport" content="width=device-width, initial-scale=1, " />
+        <link defer href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous" /> 
+        <link rel="stylesheet" type="text/css" href="style.css" />
         <!-- Primary Meta Tags -->
 <title>GirlsGaming</title>
 <meta name="title" content="GirlsGaming" />
 <meta name="description" content="GirlsGaming es una página que muestra los niveles de violencia en los videojuegos multijugadores, tiene un enfoque en la discriminación hacia el género femenino." />
-<link defer href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous" /> 
-<link defer rel="stylesheet" type="text/css" href="style.css" />
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website" />
@@ -48,7 +48,7 @@
           <a class="nav-link" href="single.html">Sobre nosotros</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="page-2.html">Explorar</a>
+          <a class="nav-link" href="page-1.html">Explorar</a>
         </li>
       </ul>
     </div>
@@ -87,31 +87,36 @@
         
         <script>
     async function juegos() {
-    const consulta = await fetch("https://raw.githubusercontent.com/Martina-Flores/Girls-Gaming/main/data.json");
-    const data = await consulta.json();
-    var donde = document.querySelector("#trabajos");
-    data.forEach(function (t, i) {
-        donde.innerHTML +=
-            '<article class="col"><div class="card h-100 shadow-sm"><img width="auto" height="auto" src="' +
-            t.cover +
-            '" alt="' +
-            t.alt +
-            '" class="card-img-top"><div class="card-body"><h1 class="fs-5"><a href="single.html?nro=' +
-            i +
-            '" class="' +
-            t.alt +
-            '">' +
-            t.title +
-            "</a></h1><p>" +
-            t.company +
-            "</p><small># " +
-            t.tags[0] +
-            "</small><small><p>" +
-            t.categoria +
-            "</small></p></div></div></article>";
-    });
-}
-juegos().catch((error) => console.error(error));
+        const consulta = await fetch("https://raw.githubusercontent.com/Martina-Flores/Girls-Gaming/main/data.json");
+        const data = await consulta.json();
+        var donde = document.querySelector("#trabajos");
+        data.forEach(function (t, i) {
+            donde.innerHTML +=
+                '<article class="col"><div class="card h-100 shadow-sm"><img width="auto" height="auto" src="' +
+            t.cover + '" alt="caratula del viedojuego" class="w-100"><div class="card-body"><h1 class="fs-5"><a href="single.html?nro=' +
+                                        i +
+                                        '" class="' +
+                                        t.alt +
+                                        '">' +
+                                        t.title +
+                                        "</a></h1><p>" +
+                                        t.company +
+                                        "</p><small>" +
+                                        "</a><b><p>" +
+                                        t.author +
+                                        "</p></b><small><p>" +
+                                        "Complejidad nivel: " +
+                                        "<b>" +
+                                        t.categoria +
+                                        "</b>" +
+                                        "</small>" +
+                                        "</p><small><em>#" +
+                                        t.tags[0] + ', #' + t.tags[1]
+                                        "</em></small></div></div></article></div>";
+
+        });
+    }
+    juegos().catch((error) => console.error(error));
 </script>
 
 
@@ -121,7 +126,8 @@ juegos().catch((error) => console.error(error));
             <div class="container px-5"><p class="text-center text-white small">Martina Flores &copy; 2023</p></div>
         </footer>
         
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js" integrity="sha384-qKXV1j0HvMUeCBQ+QVp7JcfGl760yU08IQ+GpUo5hlbpg51QRiuqHAJz8+BrxE/N" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js" integrity="sha384-qKXV1j0HvMUeCBQ+QVp7JcfGl760yU08IQ+GpUo5hlbpg51QRiuqHAJz8+BrxE/N" crossorigin="anonymous" defer></script>
+
         <script src="script.js"></script>
     </body>
 </html>
