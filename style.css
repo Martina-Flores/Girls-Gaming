@@ -93,13 +93,7 @@ a{
 
 #tarjetas {
     background: #ffe0e8;
-    cursor: pointer;
-    transition: 1s;
             }
-
-#tarjetas:hover{
-    transform: scale(1.2);
-}
 
 
 .container-info,
