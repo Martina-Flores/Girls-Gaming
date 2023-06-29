@@ -106,14 +106,3 @@ a{
 h2{
     text-align: center;
 }
-
-.article,
-card{
-    cursor: pointer;
-    transition: 1s;
-}
-
-.article,
-card:hover{
-    transform: scale(1.2);
-}
