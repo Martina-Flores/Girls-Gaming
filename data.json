@@ -97,34 +97,6 @@
 	},
 
 	{
-		"title": "Hearthstone",
-		"company": "Blizzard",
-		"cover": "img/img-8.webp",
-		"alt": "Portada del videojuego Hearthstone",
-		"tags": ["Sexualización de personajes femeninos", "Chat de texto", "Multijugador competitivo"],
-		"description": "Es un juego de cartas coleccionables en líneat. Está centrado en el universo de Warcraft, y es de descarga gratuita, aunque con compras opcionales para acelerar el ritmo de colección de cartas y acceso a contenidos extra.",
-		"platform": ["PC", "Mobile"],
-		"gender": ["Estrategia", "Coleccionable", "Juego por turnos"],
-		"categoria": "Juego seguro",
-		"Release date": "11 de Marzo de 2014"
-
-	},
-
-	{
-		"title": "Destiny 2",
-		"company": "Bungie Studios",
-		"cover": "img/img-9.webp",
-		"alt": "Portada del videojuego Destiny 2",
-		"tags": ["Chat de voz", "Chat de texto", "Mutear el chat", "Sistema de reporte", "Multijugador competitivo", "Personalización de personaje"],
-		"description": "Sumérgete en el mundo de Destiny 2 para explorar los misterios del sistema solar y vive la experiencia de combate de respuesta rápida de este shooter en primera persona. Consigue poderosas habilidades elementales y colecciona equipamiento único para personalizar tanto el aspecto como el estilo de juego de tu guardián.",
-		"platform": ["PC", "PS4", "PS5", "Xbox One"],
-		"gender": ["Shooter en primera perona", "Acción"],
-		"categoria": "Poco violento",
-		"Release date": "6 de septiembre de 2017"
-
-	},
-
-	{
 		"title": "Grand Theft Auto V",
 		"company": "Rockstar Games",
 		"cover": "img/img-10.webp",
@@ -208,20 +180,6 @@
 	},
 
 	{
-		"title": "Rainbow Six Siege",
-		"company": " Ubisoft Montreal",
-		"cover": "img/img-16.webp",
-		"alt": "Portada del videojuego Rainbow Six Siege",
-		"tags": ["Agrupación de equipos", "Chat de voz", "No hay censura de insultos", "Sistemda de reporte", "Multijugador competitivo"],
-		"description": "Tom Clancy's Rainbow Six® Siege es un shooter táctico realista por equipos en el que una cuidadosa planificación y ejecución de tu estrategia son claves para conseguir la victoria. Embárcate en un nuevo tipo de asalto usando un nivel de destrucción y unos dispositivos nunca vistos.",
-		"platform": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series"],
-		"gender": ["Shooter en primera persona"],
-		"categoria": "Muy violento",
-		"Release date": "1 de Diciembre de 2015"
-
-	},
-
-	{
 		"title": "Minecraft",
 		"company": "Mojang Studios",
 		"cover": "img/img-17.webp",
@@ -263,19 +221,6 @@
 
 	},
 
-	{
-		"title": "Gang Beasts",
-		"company": " Boneloaf",
-		"cover": "img/img-20.webp",
-		"alt": "Portada del videojuego Gang Beasts",
-		"tags": ["Sistema de reporte"],
-		"description": "Gang Beasts es un desternillante juego multijugador de peleas absurdas entre personajes gelatinosos y gruñones que tienen lugar en los peligrosos entornos de las calles de la ciudad de Picadillo.",
-		"platform": ["PC", "PS4", "Xbox One", "Nintendo"],
-		"gender": ["Pelea", "Rol de acción"],
-		"categoria": "Juego seguro",
-		"Release date": "12 de Diciembre de 2017"
-
-	},
 
 	{
 		"title": "Among Us",
@@ -292,40 +237,10 @@
 	},
 
 
-
-	
-	{
-		"title": "Team Fortress 2",
-		"company": "Activision",
-		"cover": "img/img-25.webp",
-		"alt": "Portada del videojuego League of Legends",
-		"tags": ["Chat de voz", "no hay censura"],
-		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
-		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["MOBA", "Rol de acción"],
-		"categoria": "Medianamente violento",
-		"Release date": "21 de Agosto de 2012"
-
-	},
-
 	{
 		"title": "Call of Duty: Black Ops III",
 		"company": "Activision",
 		"cover": "img/img-26.webp",
-		"alt": "Portada del videojuego League of Legends",
-		"tags": ["Chat de voz", "no hay censura"],
-		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
-		"platform": ["PC", "PS4", "PS5"],
-		"gender": ["MOBA", "Rol de acción"],
-		"categoria": "Muy violento",
-		"Release date": "21 de Agosto de 2012"
-
-	},
-
-	{
-		"title": "Red Dead Redemption 2",
-		"company": "Activision",
-		"cover": "img/img-27.webp",
 		"alt": "Portada del videojuego League of Legends",
 		"tags": ["Chat de voz", "no hay censura"],
 		"description": "Reúne un grupo de amigos y participa en un tiroteo masivo para intentar ser el último escuadrón con vida. Lánzate, ármate hasta los dientes, saquea recompensas y lucha por llegar a lo más alto.",
