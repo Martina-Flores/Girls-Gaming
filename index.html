@@ -87,31 +87,31 @@
         
         <script>
     async function juegos() {
-        const consulta = await fetch("https://raw.githubusercontent.com/Martina-Flores/Girls-Gaming/main/data.json");
-        const data = await consulta.json();
-        var donde = document.querySelector("#trabajos");
-        data.forEach(function (t, i) {
-            donde.innerHTML +=
-                '<article class="col"><div class="card h-100 shadow-sm"><img width="auto" height="auto" src="' +
-                t.cover +
-                '"alt="' +
-                t.alt +
-                '" class="card-img-top"><div class="card-body"><h1 class="fs-5"><a href="single.html?nro=' +
-                i +
-                '" class="' +
-                t.alt +
-                '">' +
-                t.title +
-                "</a></h3><p>" +
-                t.company +
-                "</p><small>#" +
-                t.tags +
-                "</small><p><small>#" +
-                t.categoria +
-                "</p></small></div></div></article>";
-        });
-    }
-    juegos().catch((error) => console.error(error));
+    const consulta = await fetch("https://raw.githubusercontent.com/Martina-Flores/Girls-Gaming/main/data.json");
+    const data = await consulta.json();
+    var donde = document.querySelector("#trabajos");
+    data.forEach(function (t, i) {
+        donde.innerHTML +=
+            '<article class="col"><div class="card h-100 shadow-sm"><img width="auto" height="auto" src="' +
+            t.cover +
+            '" alt="' +
+            t.alt +
+            '" class="card-img-top"><div class="card-body"><h1 class="fs-5"><a href="single.html?nro=' +
+            i +
+            '" class="' +
+            t.alt +
+            '">' +
+            t.title +
+            "</a></h1><p>" +
+            t.company +
+            "</p><small># " +
+            t.tags[0] +
+            "</small><small><p>" +
+            t.categoria +
+            "</small></p></div></div></article>";
+    });
+}
+juegos().catch((error) => console.error(error));
 </script>
 
 
