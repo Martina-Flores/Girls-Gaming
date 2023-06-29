@@ -58,7 +58,7 @@
     <div class="container-cover">
         <div class="container-cover-info">
         <h1>GirlsGaming</h1>
-            <p>Minions ipsum tulaliloo bappleees poopayee belloo! Hana dul sae belloo! Poulet tikka masala ti aamoo! Poopayee bananaaaa po kass. Aaaaaah po kass la bodaaa pepete wiiiii aaaaaah poulet tikka masala tulaliloo.</p>
+            <p>En esta página muestro una selección de videojuegos que están clasificados por niveles de violencia, en base a mi opinión y experiencia jugandolos.</p>
         </div>
      </div>
         
@@ -91,24 +91,7 @@
     const data = await consulta.json();
     var donde = document.querySelector("#trabajos");
     data.forEach(function (t, i) {
-        donde.innerHTML +=
-            '<article class="col"><div class="card h-100 shadow-sm"><img width="auto" height="auto" src="' +
-            t.cover +
-            '" "alt="' +
-            t.alt +
-            '"" class="card-img-top"><div class="card-body"><h1 class="fs-5"><a href="single.html?nro=' +
-            i +
-            '" class="' +
-            t.alt +
-            '">' +
-            t.title +
-            "</a></h1><p>" +
-            t.company +
-            "</p><small># " +
-            t.tags[0] +
-            "</small><small><p>" +
-            t.categoria +
-            "</small></p></div></div></article>";
+        donde.innerHTML += 'srsersresers";
     });
 }
 juegos().catch((error) => console.error(error));
