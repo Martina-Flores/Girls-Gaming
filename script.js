@@ -11,7 +11,7 @@ async function juegos() {
     data.forEach(function (t, i) {
       if (categoriaSeleccionada === "Todos" || t.categoria === categoriaSeleccionada) {
         filteredData.push('<article class="col"><div class="card h-100 shadow-sm ' + t.description +
-          '"><img src="' + t.cover + '" "alt="' + t.alt + '"" class="card-img-top"><div class="card-body text-secondary" id="tarjetas"><h3 class="fs-5"><a href="single.html?nro=' + i + '" class="link-secondary">' + t.title + "</a></h3><p>" + t.company + "</p><small>#" + t.tags + "</small><p><small>#" + t.categoria + "</p></small></div></div></article>");
+          '"><img width="100%" height="100%" src="' + t.cover + '" alt="' + t.alt + '" class="card-img-top"><div class="card-body text-secondary" id="tarjetas"><h3 class="fs-5"><a href="single.html?nro=' + i + '" class="link-secondary">' + t.title + "</a></h3><p>" + t.company + "</p><small>#" + t.tags + "</small><p><small>#" + t.categoria + "</p></small></div></div></article>");
       }
     });
 
